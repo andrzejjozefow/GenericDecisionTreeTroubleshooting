@@ -1,0 +1,17 @@
+{
+  "rootNode": {
+    "question": "Czy zamknałes klape",
+    "onYes": {
+      "question": "Czy podlaczyles do pradu",
+      "onYes": {
+        "answer": "Skontaktuj sie z pomoca techniczna"
+      },
+      "onNo": {
+        "answer": "Podlacz wtyczke!"
+      }
+    },
+    "onNo": {
+      "answer": "Zamknij tę klape!!"
+    }
+  }
+}
