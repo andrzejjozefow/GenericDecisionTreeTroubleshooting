@@ -22,9 +22,9 @@ public class DecisionTreeApplicationTest {
 
     DecisionTree zepsutaPralkaTree = new DecisionTree(czyZamknalesKlape);
 
-    String decissionTreeInJson = zepsutaPralkaTree.toJson();
+    String decisionTreeInJson = zepsutaPralkaTree.toJson();
 
-    System.out.println("Decision tree json:" + decissionTreeInJson);
+    System.out.println("Decision tree json:" + decisionTreeInJson);
 
   }
 
